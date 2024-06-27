@@ -1,3 +1,4 @@
 We attempted to use the Dexter Industries I2C library to use our EV3 brick as a master and an Arduino UNO as a slave
 Unfortunatly it was very unreliable as it transfered information to quickly causing both the microcontrollers to lag
 Or it was too slow to be usefull
+In this file is the library for the I2C protocol
