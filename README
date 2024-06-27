@@ -1,0 +1,4 @@
+#We are participating in the lightweight division of the Robocup Junior 2024 soccer competition held in Eindhoven. 
+#This repository contain information about our participating robot. Including the code, CAD designs, libraries, etc.
+# We used the Lego Mindstorms EV3 framework due to its ease of use and due to the robustness and repairibility of a Lego frame.
+# https://www.lego.com/en-in/themes/mindstorms/downloads  This is the link to the legacy EV3 IDE that we used
